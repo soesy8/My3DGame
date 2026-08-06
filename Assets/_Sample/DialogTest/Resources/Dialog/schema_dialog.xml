@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ArrayOfDialog>
+	<Dialog>
+		<number/>
+		<character/>
+		<name/>
+		<sentence/>
+		<next/>
+	</Dialog>
+	<Dialog>
+		<number/>
+		<character/>
+		<name/>
+		<sentence/>
+		<next/>
+	</Dialog>
+</ArrayOfDialog>
